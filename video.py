@@ -147,7 +147,15 @@ class Video():
                 sname[0],sname[1] = i,j
     return max
  
-  
+# def search_video(path: str):
+#   video = Video(path)
+#   video.get_data()
+#   video.match()
+#   insert_data(video)
+
+# def mult_thread(path: str):
+#   th = ThreadPoolExecutor()
+#   th.map(search_video, findAllFile(path))
 
 # %%
 # a = requests.post(DAN_MATCH_API + '161720012').json()

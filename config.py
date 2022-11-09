@@ -11,4 +11,5 @@ DAN_EP_API = 'https://api.dandanplay.net/api/v2/match/{}'
 BGM_BGN_API = 'https://api.bgm.tv/v0/subjects/'
 STRING_RATE = 0.6
 PUN =  r'`~!@\#$%^&*\(\)=+\|[]{}:;"\'<>,.?/·~！@\#￥%……&*（）+=|-、｛｝【】：；“”‘’《》，。？、'
-IMG_FOLDER= './'
+IMG_FOLDER= './img/'
+LOG_FOLDER = './'
